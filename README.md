@@ -1,4 +1,4 @@
-# Bem vindo ao Repositório - Html 5
+# Bem vindo ao Repositório - HTML 5
 ---
 Este repositório foi criado para registrar a trilha de conhecimento adquiridas durante as aulas do curso HTML 5, podendo ser utilizado como guia de consulta e/ou base para novos projetos.
 
