@@ -4,7 +4,7 @@ Este repositório foi criado para registrar a trilha de conhecimento adquiridas 
 
 O objetivo deste repositório é ajudar a todos aqueles programadores que assim como eu estão em processo de aprendizagem.
 
-   * Para acessar a Wiki [Clique Aqui](https://github.com/cristianoargoud/PHP/wiki)
+   * Para acessar a Wiki [Clique Aqui](https://github.com/cristianoargoud/HTML-5/wiki)
    * Para fazer o Clone da Wiki, copie este Link: https://github.com/cristianoargoud/PHP.wiki.git
    
 Os **Códigos** de Teste sobre a Linguagem PHP encontram-se neste Repositório:
